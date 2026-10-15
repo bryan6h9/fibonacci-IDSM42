@@ -3,7 +3,7 @@ from fibonacci import fibonacci
 
 
 def test_fibonacci_correcto():
-    assert fibonacci(10) == 100
+    assert fibonacci(10) == 55
 
 
 def test_fibonacci_limite():
